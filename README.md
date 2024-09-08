@@ -122,9 +122,8 @@ This repository provides a solid foundation for performing statistical analysis 
 - **/datasets**: Place any downloaded datasets here (not included in the repository).
 - **/scripts**: Python scripts for performing statistical analysis.
   
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+## linkedin profile
+www.linkedin.com/in/rakesh-paila-b4a473309
 
 ---
 
